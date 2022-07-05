@@ -1,1 +1,3 @@
-# Aula22-Banco-de-Dados
+## Colaboradores:
+### [Hugo Diniz](./https://github.com/Hugogdiniz)
+### [Nathalia França](./https://github.com/nathrfranca)
